@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lalitkumarchauhan better known as LT or lallee in my friends circles and you can call me that.
+- 👋 Hi, I’m @lalitkumarchauhan.
 
 - 👀 I’m interested in Data-driven decision capability of Data Science and in a more proactive way to use it in congruence with ML and technology cohort.
  
