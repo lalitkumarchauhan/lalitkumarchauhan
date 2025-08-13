@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @lalitkumarchauhan.
+👋 Hi, I’m @lalitkumarchauhan.
 
-- 👀 I’m interested in Data-driven decision capability of Data Science and in a more proactive way to use it in congruence with ML and technology cohort.
- 
-- 🌱 I’m currently on the road to complete my journey from being a nomadic Customer Support Executive/Engineer to a data professional. I am keen on to make it a point about the validity of the plethora of opportunities, the collection of various data all over the globe, presents in its daily and long term success.
- 
-- 💞️ I’m looking to collaborate on with a deep learning project lately.
- 
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/lalitkumarchauhan/">Linkedin!</a>.
+👀 I'm passionate about leveraging data-driven decision-making through Data Science, and exploring how it intersects with Machine Learning and emerging technologies.
+
+🌱 I'm transitioning from a dynamic career in Customer Support to becoming a data professional. I'm driven by the belief that the vast and growing availability of global data holds immense potential for both immediate and long-term impact.
+
+💞️ Currently, I'm looking to collaborate on a deep learning project and connect with like-minded professionals in the field.
+
+📫 You can reach me on <a href="https://www.linkedin.com/in/lalitkumarchauhan/">Linkedin!</a>.
 
 <!---
 lalitkumarchauhan/lalitkumarchauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
