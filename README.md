@@ -6,7 +6,7 @@
  
 - 💞️ I’m looking to collaborate on with a deep learning project lately.
  
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/lalitkumarchauhan/">Linkedin!</a> OR <a href="https://wa.me/919311798969">Whatsapp !</a>.
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/lalitkumarchauhan/">Linkedin!</a>.
 
 <!---
 lalitkumarchauhan/lalitkumarchauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
